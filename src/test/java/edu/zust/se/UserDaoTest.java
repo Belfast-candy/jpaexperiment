@@ -52,4 +52,8 @@ public class UserDaoTest {
     public void sayHelloWorld(){
         System.out.println("Hello World!");
     }
+    @Test
+    public void sayCat(){
+        System.out.println("Cat");
+    }
 }
