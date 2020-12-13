@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jpaexperiment" />
+        <module name="gittest" />
         <module name="gittestproject" />
+        <module name="jpaexperiment" />
       </profile>
     </annotationProcessing>
   </component>

@@ -53,6 +53,10 @@ public class UserDaoTest {
         System.out.println("Hello World!");
     }
     @Test
+    public void sayDog(){
+        System.out.println("Dog");
+    }
+    @Test
     public void sayCat(){
         System.out.println("Cat");
     }
