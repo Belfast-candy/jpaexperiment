@@ -48,4 +48,8 @@ public class UserDaoTest {
 //        UserEntity user = userDao.getUser(8);
         userDao.deleteUser(20);
     }
+    @Test
+    public void sayHelloWorld(){
+        System.out.println("Hello World!");
+    }
 }
